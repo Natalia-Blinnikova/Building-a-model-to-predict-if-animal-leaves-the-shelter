@@ -1,4 +1,4 @@
-# Predicting if animal in the shelter would be adopted.
+# Building a model to predict if animal in the shelter would be adopted.
 Analysis of data of animals outcomes of the Austin Animal Shelter
 ## Aim of the investigation: to find out what factors may influence the probability of an animal to leave the shelter to home and build a model that may predict if it leaves the shelter to home or to some other destination.
 
