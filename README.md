@@ -38,7 +38,10 @@ Both cats and dogs are adopted equaly, but cats are twice more transfered than d
 ![outcomes types](https://user-images.githubusercontent.com/84775580/190916407-0837863e-6f25-43ca-a314-2b0cf4070eab.png)
 
 ### What machine learning models have been used? 
-I used logistic regression because I can classify outcomes by 2 types: Adoption&RTO-Adoption (animal went to a human) and all other outcomes which mean that animal didn't find home. 
+
+![image](https://user-images.githubusercontent.com/84775580/190917903-bd67e18a-1860-4bf4-95d2-64bbc8dca6e9.png)
+
+Correlation matrix has shown no correlations between variables, so, I decided to logistic regression because I can classify outcomes by 2 types: Adoption&RTO-Adoption (animal went to a human) and all other outcomes which mean that animal didn't find home. 
 <br> Clusterization with KNN - also possible as I know the number of clusters.
 
 <br> To build the models I modified data from nominal variables written as words to written with numbers. 
